@@ -72,8 +72,6 @@ Password: prom-operator
 kubectl get pod
 kubectl port-forward prometheus-prometheus-kube-prometheus-prometheus-0 9090
 ```
-Service Monitor can be found at localhost:9090
-
 ---
 ---
 
